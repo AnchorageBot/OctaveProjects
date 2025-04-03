@@ -9,3 +9,7 @@ IDEs
 * [Online Octave (MATLAB) Compiler](https://www.mycompiler.io/online-octave-matlab-compiler)
 
 * [Replit](https://replit.com)
+
+Videos
+
+*[Octave for Signal Processing: First Impressions from an Engineering Professor - Prof. Adam Noel](https://youtu.be/H2AhZycbdOg?si=xK9Yerxigx7lR8zp) 
