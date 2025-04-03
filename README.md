@@ -4,6 +4,8 @@ IDEs
 
 * [GNU Octave](https://octave.org)
 
+* [Octave with Cocalc](https://cocalc.com/features/octave)
+
 * [Octave Online](https://octave-online.net)
 
 * [Online Octave (MATLAB) Compiler](https://www.mycompiler.io/online-octave-matlab-compiler)
