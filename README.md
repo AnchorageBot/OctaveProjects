@@ -16,4 +16,6 @@ Videos
 
 * [Matlab/Octave Tutorial Playlist - Mr. STEM EDU TV](https://youtube.com/playlist?list=PLuR45MKVZJHiQDOdSzGcl7_S0jSOHn8o_&si=SDv88C7WjjszX8v-)
 
+* [Octave Programming Playlist - Hanshaw Virtual University](https://youtube.com/playlist?list=PLTwPa5Tfu7AWcFaPV4uQSRr8EzYlv61Ow&si=qpeahcHESXWUthB-)
+
 * [Google Colab and GNU Octave! - Adrian Dolinay](https://youtu.be/Gx-5LJFDD5U?si=Ul2L0MErTLr6jauN)
